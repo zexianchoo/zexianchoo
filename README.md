@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**zexianchoo/zexianchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior at University of Illinois Urbana-Champaign passionate about Computer Vision and Quantitative Finance. Here are a few things I'm skilled in:
 
-Here are some ideas to get you started:
+- **Programming Languages:** Python, C++, Java
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, React, Tailwind CSS, Angular, Django, Flask
+- **Technologies:** MongoDB, MySQL, PostgreSQL, Google Cloud Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/zexianchoo/)
+- Personal Website: [zexianchoo.github.io](https://zexianchoo.github.io)
+
+Feel free to reach out to me via LinkedIn or visit my personal website!
