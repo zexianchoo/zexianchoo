@@ -1,4 +1,4 @@
-### Hey! 👋
+# Hey! 👋
 
 I'm a Junior at University of Illinois Urbana-Champaign passionate about Computer Vision and Quantitative Finance. Here are a few things I'm skilled in:
 
