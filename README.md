@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a Junior at University of Illinois Urbana-Champaign passionate about Computer Vision and Distributed Systems. Here are a few things I'm skilled in:
+I'm a Senior at University of Illinois Urbana-Champaign passionate about Computer Vision and Distributed Systems. Here are a few things I'm skilled in:
 
 - **Programming Languages:** Python, C/C++, Golang, Java, JavaScript, HCL, SQL, MIPS, x86
 - **Data Science/AI:** Numpy, Pandas, PyTorch, HuggingFace, Cassandra, OpenCV, SQL
